@@ -1,0 +1,11 @@
+Student Score Report
+--------------------
+Test  1:  78
+Test  2:  92
+Test  3:  85
+Test  4:  64
+Test  5:  88
+--------------------
+Total:    407
+Average:  81.40
+Letter grade: B
